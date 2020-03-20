@@ -18,7 +18,6 @@
 package org.palladium.support.preferences;
 
 import android.content.Context;
-import androidx.preference.SwitchPreference;
 import android.util.AttributeSet;
 
 public class GlobalSettingSwitchPreference extends SwitchPreference {
