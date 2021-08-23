@@ -17,12 +17,13 @@
 package com.palladium.support.preferences;
 
 import android.content.Context;
-import androidx.preference.Preference;
-import androidx.preference.PreferenceViewHolder;
 import android.os.Handler;
 import android.util.AttributeSet;
 import android.view.MotionEvent;
 import android.view.View;
+
+import androidx.preference.Preference;
+import androidx.preference.PreferenceViewHolder;
 
 public class LongClickablePreference extends Preference {
 
